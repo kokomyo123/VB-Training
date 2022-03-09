@@ -9,3 +9,14 @@ D:\VB Projects\VB_Training\VB_Training\obj\Debug\VB_Training.vbproj.CoreCompileI
 D:\VB Projects\VB_Training\VB_Training\obj\Debug\VB_Training.exe
 D:\VB Projects\VB_Training\VB_Training\obj\Debug\VB_Training.xml
 D:\VB Projects\VB_Training\VB_Training\obj\Debug\VB_Training.pdb
+D:\VB-Training\VB-Training\VB_Training\bin\Debug\VB_Training.exe.config
+D:\VB-Training\VB-Training\VB_Training\bin\Debug\VB_Training.exe
+D:\VB-Training\VB-Training\VB_Training\bin\Debug\VB_Training.pdb
+D:\VB-Training\VB-Training\VB_Training\bin\Debug\VB_Training.xml
+D:\VB-Training\VB-Training\VB_Training\obj\Debug\VB_Training.vbproj.AssemblyReference.cache
+D:\VB-Training\VB-Training\VB_Training\obj\Debug\VB_Training.Resources.resources
+D:\VB-Training\VB-Training\VB_Training\obj\Debug\VB_Training.vbproj.GenerateResource.cache
+D:\VB-Training\VB-Training\VB_Training\obj\Debug\VB_Training.vbproj.CoreCompileInputs.cache
+D:\VB-Training\VB-Training\VB_Training\obj\Debug\VB_Training.exe
+D:\VB-Training\VB-Training\VB_Training\obj\Debug\VB_Training.xml
+D:\VB-Training\VB-Training\VB_Training\obj\Debug\VB_Training.pdb
