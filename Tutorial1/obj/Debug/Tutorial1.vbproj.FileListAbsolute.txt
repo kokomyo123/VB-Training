@@ -1,0 +1,11 @@
+D:\VB-Training\VB-Training\Tutorial1\bin\Debug\Tutorial1.exe.config
+D:\VB-Training\VB-Training\Tutorial1\bin\Debug\Tutorial1.exe
+D:\VB-Training\VB-Training\Tutorial1\bin\Debug\Tutorial1.pdb
+D:\VB-Training\VB-Training\Tutorial1\bin\Debug\Tutorial1.xml
+D:\VB-Training\VB-Training\Tutorial1\obj\Debug\Tutorial1.vbproj.AssemblyReference.cache
+D:\VB-Training\VB-Training\Tutorial1\obj\Debug\Tutorial1.Resources.resources
+D:\VB-Training\VB-Training\Tutorial1\obj\Debug\Tutorial1.vbproj.GenerateResource.cache
+D:\VB-Training\VB-Training\Tutorial1\obj\Debug\Tutorial1.vbproj.CoreCompileInputs.cache
+D:\VB-Training\VB-Training\Tutorial1\obj\Debug\Tutorial1.exe
+D:\VB-Training\VB-Training\Tutorial1\obj\Debug\Tutorial1.xml
+D:\VB-Training\VB-Training\Tutorial1\obj\Debug\Tutorial1.pdb
