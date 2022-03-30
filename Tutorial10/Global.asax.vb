@@ -8,4 +8,5 @@ Public Class Global_asax
         RouteConfig.RegisterRoutes(RouteTable.Routes)
         BundleConfig.RegisterBundles(BundleTable.Bundles)
     End Sub
+
 End Class

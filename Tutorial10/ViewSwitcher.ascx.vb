@@ -11,6 +11,7 @@ Public Class ViewSwitcher
             m_CurrentView = value
         End Set
     End Property
+
     Private m_CurrentView As String
 
     Protected Property AlternateView() As String
@@ -21,6 +22,7 @@ Public Class ViewSwitcher
             m_AlternateView = value
         End Set
     End Property
+
     Private m_AlternateView As String
 
     Protected Property SwitchUrl() As String
@@ -31,6 +33,7 @@ Public Class ViewSwitcher
             m_SwitchUrl = value
         End Set
     End Property
+
     Private m_SwitchUrl As String
 
     Protected Sub Page_Load(sender As Object, e As EventArgs)
@@ -42,12 +45,11 @@ Public Class ViewSwitcher
         AlternateView = If(isMobile, "Desktop", "Mobile")
 
         ' Create switch URL from the route, e.g. ~/__FriendlyUrls_SwitchView/Mobile?ReturnUrl=/Page
-        Dim url = GetRouteUrl("AspNet.FriendlyUrls.SwitchView", New With { _
-            Key .view = AlternateView _
+        Dim url = GetRouteUrl("AspNet.FriendlyUrls.SwitchView", New With {
+            Key .view = AlternateView
         })
         url += "?ReturnUrl=" & HttpUtility.UrlEncode(Request.RawUrl)
         SwitchUrl = url
     End Sub
-
 
 End Class

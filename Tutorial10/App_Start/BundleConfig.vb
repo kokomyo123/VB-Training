@@ -1,9 +1,7 @@
-﻿Imports System.Collections.Generic
-Imports System.Linq
-Imports System.Web
-Imports System.Web.Optimization
+﻿Imports System.Web.Optimization
 
 Public Class BundleConfig
+
     ' For more information on Bundling, visit https://go.microsoft.com/fwlink/?LinkID=303951
     Public Shared Sub RegisterBundles(ByVal bundles As BundleCollection)
         bundles.Add(New ScriptBundle("~/bundles/WebFormsJs").Include(
@@ -28,4 +26,5 @@ Public Class BundleConfig
         bundles.Add(New ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"))
     End Sub
+
 End Class
